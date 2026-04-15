@@ -1,24 +1,21 @@
-# Privacy Policy for Balloon Pop: Galactic Blast
+# Privacy Policy
 
-**Last Updated: March 29, 2026**
+**Last Updated: April 15, 2026**
 
-Antes-Spel ("we," "us," or "our") built the Balloon Pop: Galactic Blast app as a Commercial app. This SERVICE is provided by Antes-Spel and is intended for use as is.
+At Antes-Spel, we believe that your privacy is paramount. This application is designed to be a "Boutique" experience, which means we treat your data with the same respect we treat our own.
 
-## 1. Information Collection and Use
-We do not collect, store, or share any personal information. 
-- **No Personal Data:** Our app does not collect any personally identifiable information (PII) such as your name, email address, or phone number.
-- **No Tracking:** We do not use third-party cookies or tracking technologies.
-- **No Analytics:** We do not use third-party analytics services.
+## 1. Zero Data Collection
+We do **not** collect, store, or transmit any personal data from this application. 
+- No email addresses.
+- No analytics or tracking.
+- No location data.
+- No device identifiers.
 
-## 2. Third-Party Services
-While our app itself does not collect data, it is published via the **Apple App Store**. Apple may collect data as part of its standard operating procedures (e.g., download statistics, crash reports). For more information, please review the [Apple Privacy Policy](https://www.apple.com/legal/privacy/).
+## 2. Local Storage Only
+Any game progress (scores, unlocks, or settings) is stored exclusively on your device. We do not have access to this data, and it is never uploaded to any servers.
 
-## 3. Children's Privacy
-Our app does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
+## 3. Third-Party Services
+This app does not use any third-party SDKs or services that track user behavior.
 
-## 4. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes.
-
-## 5. Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: 
-[ante90@msn.com]
+## 4. Contact Us
+If you have any questions about this policy, please visit our [Support Page](../SUPPORT.md).
