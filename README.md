@@ -9,6 +9,11 @@ This repository serves as the official public discovery hub and support portal f
 - **Support:** [ante90@msn.com](mailto:ante90@msn.com)
 - **Privacy Policy:** [View PRIVACY.md](Balloon%20Pop/PRIVACY.md)
 
+### [PuzzleBox](https://github.com/Antes-Spel/Catalogue/tree/main/PuzzleBox)
+- **Status:** TestFlight Deployment
+- **Support:** [ante90@msn.com](mailto:ante90@msn.com)
+- **Privacy Policy:** [View PRIVACY.md](PuzzleBox/PRIVACY.md)
+
 ---
 
 ## 🛠️ Upcoming Projects
