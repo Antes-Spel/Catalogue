@@ -27,4 +27,4 @@ For technical support, legal inquiries, or bug reports, please:
 1. **Open an Issue** on this repository.
 2. **Email us** at [ante90@msn.com](mailto:ante90@msn.com).
 
-*&copy; 2026 Antes-Spel | Created with the Antigravity Swarm.*
+*&copy; 2026 Antes-Spel*
